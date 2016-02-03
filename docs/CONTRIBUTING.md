@@ -1,5 +1,7 @@
 # MAPS.ME Development
 
+----
+
 ## Issues
 
 The simplest way to contribute is to [submit an issue](https://github.com/mapsme/omim/issues).
